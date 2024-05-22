@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "id": "1",
+      "name": "Frodo",
+      "breed": "Hobbit",
+      "weight": "50",
+      "height": "1.50",
+      "power": "ninguno"
+    },
+    {
+      "id": "2",
+      "name": "Sam",
+      "breed": "Hobbit",
+      "weight": "60",
+      "height": "1.60",
+      "power": "ninguno"
+    },
+    {
+      "id": "3",
+      "name": "Gandalf",
+      "breed": "Mago",
+      "weight": "80",
+      "height": "1.80",
+      "power": "magia"
+    },
+    {
+      "id": "4",
+      "name": "Aragorn",
+      "breed": "Humano",
+      "weight": "90",
+      "height": "1.90",
+      "power": "espada"
+    },
+    {
+      "id": "5",
+      "name": "Legolas",
+      "breed": "Elfo",
+      "weight": "70",
+      "height": "1.70",
+      "power": "arco"
+    },
+    {
+      "id": "6",
+      "name": "Gimli",
+      "breed": "Enano",
+      "weight": "100",
+      "height": "1.50",
+      "power": "hacha"
+    },
+    {
+      "id": "7",
+      "name": "Boromir",
+      "breed": "Humano",
+      "weight": "80",
+      "height": "1.80",
+      "power": "espada"
+    },
+    {
+      "id": "8",
+      "name": "Saruman",
+      "breed": "Mago",
+      "weight": "70",
+      "height": "1.70",
+      "power": "magia"
+    },
+    {
+      "id": "9",
+      "name": "Sauron",
+      "breed": "Maiar",
+      "weight": "120",
+      "height": "2.00",
+      "power": "anillo"
+    },
+    {
+      "id": "10",
+      "name": "Gollum",
+      "breed": "Hobbit",
+      "weight": "40",
+      "height": "1.20",
+      "power": "anillo"
+    },
+    {
+      "name": "jorge",
+      "breed": "elfo",
+      "weight": "56 kg",
+      "height": "1.70",
+      "power": "magia",
+      "id": "239f"
+    }
+  ]
+}
